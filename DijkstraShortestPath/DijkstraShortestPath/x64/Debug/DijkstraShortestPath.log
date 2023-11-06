@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\48571\source\repos\DijkstraShortestPath\DijkstraShortestPath\main.c(69): warning C4715: "findDistanceNode”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\48571\source\repos\DijkstraShortestPath\DijkstraShortestPath\main.c(155): warning C4715: "isVisited”: niewszystkie ścieżki kodu zwracają wartość
+  DijkstraShortestPath.vcxproj -> C:\Users\48571\source\repos\DijkstraShortestPath\x64\Debug\DijkstraShortestPath.exe
